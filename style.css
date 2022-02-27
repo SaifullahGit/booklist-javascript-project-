@@ -1,0 +1,9 @@
+h1{
+    color: rgba(1, 19, 119, 0.857);
+    text-transform: uppercase;
+    background-color: rgb(114, 107, 0);
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+    
+}
